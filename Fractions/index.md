@@ -3,7 +3,7 @@
 > 在现实世界中，我们经常遇到介于两个整数之间的数量。比如，我们有半杯面粉，
 > 或者跑了四分之一千米。我们使用分数来表示不是整数的数量。
 
-**_Exercise #1_** 思考 $\frac{2}{5}$ 和 $\frac{7}{5}$。
+**_Exercise #1._** 思考 $\frac{2}{5}$ 和 $\frac{7}{5}$。
 
 1. 以下矩形被分割成5个相同的部分，涂颜色指出矩形的 $\frac{2}{5}$：
 
@@ -40,7 +40,7 @@
 
 <br/>
 
-**_Exercise #2_** 转换以下假分数为带分数
+**_Exercise #2._** 转换以下假分数为带分数
 
 $$
 \frac{15}{4}\qquad\qquad\qquad    \frac{33}{7}
@@ -48,7 +48,7 @@ $$
 
 <br/>
 
-**_Exercise #3_** 带分数转换成假分数，思考带分数: ${4}\frac{3}{4}$
+**_Exercise #3._** 带分数转换成假分数，思考带分数: ${4}\frac{3}{4}$
 
 1.将以下三个矩形平均分成4个相同的部分,有多少个 $\frac{1}{4}$ ？
 
@@ -62,7 +62,7 @@ $$
 
 <br/>
 
-**_Exercise #4_** 转换以下带分数为假分数
+**_Exercise #4._** 转换以下带分数为假分数
 
 $$
 {5}\frac{1}{2}\qquad\qquad\qquad    {7}\frac{3}{4}
@@ -76,7 +76,7 @@ $$
 
 <br/>
 
-**_Exercise #1_** 思考下图，每一个圆形的一部分都被阴影覆盖，指出每一个阴影部分所占圆形的比例。
+**_Exercise #1._** 思考下图，每一个圆形的一部分都被阴影覆盖，指出每一个阴影部分所占圆形的比例。
 ![Equivalent](./2025-02-19_18-45.png)
 
 $$
@@ -93,7 +93,7 @@ $$
 
 <br/>
 
-**_Exercise #2_** 下列哪个分数与 $\frac{8}{5}$ 不等值？
+**_Exercise #2._** 下列哪个分数与 $\frac{8}{5}$ 不等值？
 
 $$
 \frac{16}{10}\qquad\qquad\qquad    \frac{40}{25}
@@ -111,7 +111,7 @@ $$
 
 <br/>
 
-**_Exercise #3_** 观察分数 $\frac{12}{8}$
+**_Exercise #3._** 观察分数 $\frac{12}{8}$
 
 1. 12 与 8 的最大公约数是多少？最大公约数：$greatest\space common\space factor (gcf)$
 
@@ -121,7 +121,7 @@ $$
 
 <br/>
 
-**_Exercise #4_** 写出以下分数的最简形式
+**_Exercise #4._** 写出以下分数的最简形式
 
 $$
 \frac{12}{15}\qquad\qquad\qquad    \frac{25}{40}
@@ -135,7 +135,7 @@ $$
 
 <br/>
 
-**_Exercise #4_** 以下哪个分数不是 $\frac{11}{3}$ 的等值分数？
+**_Exercise #5._** 以下哪个分数不是 $\frac{11}{3}$ 的等值分数？
 
 $$
 \frac{55}{15}\qquad\qquad\qquad    { 3 }\frac{4}{6}
@@ -145,4 +145,75 @@ $$
 
 $$
 {2}\frac{2}{3}\qquad\qquad\qquad    \frac{44}{6}
+$$
+
+<br/>
+
+## 分数与除法<br/> Fraction and Division
+
+> 理解分数和两个整数之间的除法的关系极端重要。
+
+分数等价于分子和分母之间的除法
+
+**_Exercise #1._** 露易丝有一些巧克力棒，全部都平均裂成了四段，她有 $12$ 个这样的碎片。
+
+1. 用分数表达路易斯拥有的巧克力棒的数量
+
+2. Louise 有多少个巧克力棒？这和除法有什么关系？
+
+<br/>
+
+**_Exercise #2._** 用整数除法运算表达以下分数：
+
+$$
+\frac{20}{5} =\underline{\hspace{3em}}  \div  \underline{\hspace{3em}} = \qquad\qquad\qquad    \frac{36}{4}=\underline{\hspace{3em}}  \div  \underline{\hspace{3em}} =
+$$
+
+   <br/>
+
+$$
+{5}\frac{3}{5}=\underline{\hspace{3em}}  \div  \underline{\hspace{3em}} = \qquad\qquad\qquad    {8}\frac{1}{4}=\underline{\hspace{3em}}  \div  \underline{\hspace{3em}} =
+$$
+
+<br/>
+
+**_Exercise #3._** $8$ 块饼干分给 $3$ 个小朋友：
+
+1. 用分数表达每个小朋友得到的饼干的数量
+
+2. 用带分数表示每个小朋友得到的饼干的数量
+
+**_Exercise #4._** 一个面积为 $28m^2$ 的矩形，一边的长度为 $8m$
+
+1. 用除法和分数表达矩形的宽度
+
+2. 用代分数和最简形式分数表达矩形的宽度
+
+### 练习题
+
+1. 三条长度为 ${5}\frac{3}{4}$ 的绳子总长是多少？
+
+<br />
+<br />
+<br />
+<br />
+
+2. $\frac{27}{4}$ 的前一个整数和下一个整数分别是多少？
+
+3. $6$ 个人分 ${4}$ 升（缩写为 $L$）水，Dave 认为每人应该分到 ${1}\frac{1}{2}$ 升的水，<br/>
+   他的计算过程如下，找出 Dave 的错误并改正。
+
+$$
+6 \div 4 = \frac{6}{4} = \frac{3}{2} = {1}\frac{1}{2}
+$$
+
+<br />
+<br />
+<br />
+
+4. 提取最大公约数
+
+$$
+24 + 56 = \underbrace{\underline{\hspace{2em}}}_{\text{g.c.f. 最大公约数}}\times (\underline{\hspace{2em}} + \underline{\hspace{2em}}) =  \qquad\qquad\qquad    20 + 45
+= \underbrace{\underline{\hspace{3em}}}_{\text{g.c.f. 最大公约数}} \times (\underline{\hspace{3em}} + \underline{\hspace{3em}}) =
 $$
