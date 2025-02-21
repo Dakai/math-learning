@@ -16,7 +16,7 @@
    </svg>
 
 2. 以下两个矩形被分割成5个相同的部分，指出矩形的 $\frac{7}{5}$：
-   然后转换此 **_假分数_** 成 **_带分数_** 的形式
+   然后转换此 **假分数** 成 **带分数** 的形式
 
    <svg width="200" height="100" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
    <rect x="0" y="0" width="40" height="100" stroke="black" fill="none"/>
@@ -87,6 +87,10 @@ $$
 \text{如果 }\frac{a}{b} \text{ 是一个分数，那么 } \frac{a \times c}{b \times c} \text{ 表示一个等值分数}
 $$
 
+$$
+Explain\space the\space defination\space above \space with \space your \space own \space words
+$$
+
 <br/>
 
 **_Exercise #2_** 下列哪个分数与 $\frac{8}{5}$ 不等值？
@@ -103,4 +107,42 @@ $$
 
 <br/>
 
-我们可以用等值分数的概念来把一个分数化成最简形式。
+我们可以用**等值分数**的概念来把一个分数化成**最简形式**。 最简形式：$simplest\space form$
+
+<br/>
+
+**_Exercise #3_** 观察分数 $\frac{12}{8}$
+
+1. 12 与 8 的最大公约数是多少？最大公约数：$greatest\space common\space factor (gcf)$
+
+2. 将分子和分母都除以最大公约数
+
+3. 为什么 2. 中得到的分数是 $\frac{12}{8}$ 的等值分数?
+
+<br/>
+
+**_Exercise #4_** 写出以下分数的最简形式
+
+$$
+\frac{12}{15}\qquad\qquad\qquad    \frac{25}{40}
+$$
+
+<br/>
+
+$$
+\frac{88}{16}\qquad\qquad\qquad    \frac{42}{60}
+$$
+
+<br/>
+
+**_Exercise #4_** 以下哪个分数不是 $\frac{11}{3}$ 的等值分数？
+
+$$
+\frac{55}{15}\qquad\qquad\qquad    { 3 }\frac{4}{6}
+$$
+
+<br/>
+
+$$
+{2}\frac{2}{3}\qquad\qquad\qquad    \frac{44}{6}
+$$
