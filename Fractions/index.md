@@ -310,7 +310,7 @@ $\frac{3}{8}+\frac{1}{6}=$
 
 ## 分数乘整数 <br/> Multiplying Fractionsby Whole Numbers
 
-**_Exercise #4._** Emily 有五个 $\frac{3}{4}$ 米长的木板，下图表示 Emily 所拥有的木板（阴影部分）。
+**_Exercise #1._** Emily 有五个 $\frac{3}{4}$ 米长的木板，下图表示 Emily 所拥有的木板（阴影部分）。
 
 <svg width="250" height="200" xmlns="http://www.w3.org/2000/svg">
   <!-- Row 1 -->
@@ -356,4 +356,169 @@ $\frac{3}{8}+\frac{1}{6}=$
 
 <br/>
 
-3.
+**_Exercise #2._** 计算下列结果
+
+$8 \times \frac{1}{4} =   \qquad\qquad\qquad\qquad    {5}\times \frac{2}{3}=\qquad\qquad\qquad\qquad\ {15} \times \frac{1}{5}=$
+
+<br/>
+
+$7 \times \frac{5}{2} =   \qquad\qquad\qquad\qquad    {16}\times \frac{9}{4}=\qquad\qquad\qquad\qquad\ {16} \times \frac{9}{4}=$
+
+<br/>
+
+**_Exercise #3._** 一个边长分别为 $8$ 米和 ${11}\frac{3}{4}$ 米的长方形，Justine 认为她可以通过计算 ${88} + {8} \times \frac{3}{4}$ 来得到长方形的总面积，你觉得对吗？为什么？她的算法使用了什么原理？
+
+## 计算一个整数的部分<br/>Finding a Fraction of a Whole
+
+**_Exercise #1._** Victor 迈开大步每一步走 ${3}\frac{1}{4}$ 码，他总共走了$5$步，计算他走的总长是多少？用带分数表示结果。
+
+<br/>
+<br/>
+
+**_Exercise #2._** Latanya 有 $35$ 个苹果，她将这些苹果的 $\frac{3}{5}$ 送给了别人。
+
+1. 写出算式
+
+<br/>
+
+2. 根据题目将下面小格填上数量
+
+<svg width="250" height="50" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- First Portion -->
+  <rect x="0" y="0" width="50" height="50" stroke="black" fill="white" />
+
+  <!-- Second Portion -->
+  <rect x="50" y="0" width="50" height="50" stroke="black" fill="white" />
+
+  <!-- Third Portion -->
+  <rect x="100" y="0" width="50" height="50" stroke="black" fill="white" />
+
+  <!-- Fourth Portion -->
+  <rect x="150" y="0" width="50" height="50" stroke="black" fill="white" />
+
+  <!-- Fifth Portion -->
+  <rect x="200" y="0" width="50" height="50" stroke="black" fill="white" />
+
+</svg>
+
+<br/>
+
+**_Exercise #3._** 根据算式在方格中填入数字
+
+(a) $\frac{2}{3} \times {8} =$
+
+<svg width="150" height="50" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="50" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="100" y="0" width="50" height="50" stroke="black" fill="white" />
+</svg>
+
+(b) $\frac{5}{6} \times {48} =$
+
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="50" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="100" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="150" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="200" y="0" width="50" height="50" stroke="black" fill="white" />
+  <rect x="250" y="0" width="50" height="50" stroke="black" fill="white" />
+</svg>
+
+**_Exercise #3._** 你的班上左撇子的同学数量是右撇子同学数量的九分之二，如果有 $18$ 个右撇子的同学，班上总共有几个同学?
+
+<br/>
+<br/>
+
+如果题目变成班上总共用 $44$ 个同学，如何求左撇子和右撇子的人数？
+
+**_Exercise #4._** 计算下列算式
+
+$\frac{2}{5} \times {15} \qquad\qquad\qquad2 \times \frac{15}{5}$
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**_Exercise #4._** 计算下列算式
+
+$\frac{4}{7} \times 21 \qquad\qquad\qquad40 \times \frac{5}{8}  \qquad\qquad\qquad\frac{11}{7} \times 8 \qquad\qquad\qquad60 \times \frac{2}{5}$
+
+## 分数的乘法 <br/> Multiplication Fractions
+
+### _Exercise #1._ ## 用几何图形理解分数的乘法，观察以下边长为 $1$ 米的正方形：
+
+<svg width="240" height="240" xmlns="http://www.w3.org/2000/svg">
+  <!-- First Row -->
+  <rect x="0" y="0" width="60" height="80" stroke="black" fill="white" />
+  <rect x="60" y="0" width="60" height="80" stroke="black" fill="white" />
+  <rect x="120" y="0" width="60" height="80" stroke="black" fill="white" />
+  <rect x="180" y="0" width="60" height="80" stroke="black" fill="white" />
+
+  <!-- Second Row -->
+  <rect x="0" y="80" width="60" height="80" stroke="black" fill="white" />
+  <rect x="60" y="80" width="60" height="80" stroke="black" fill="white" />
+  <rect x="120" y="80" width="60" height="80" stroke="black" fill="white" />
+  <rect x="180" y="80" width="60" height="80" stroke="black" fill="white" />
+
+  <!-- Third Row -->
+  <rect x="0" y="160" width="60" height="80" stroke="black" fill="white" />
+  <rect x="60" y="160" width="60" height="80" stroke="black" fill="white" />
+  <rect x="120" y="160" width="60" height="80" stroke="black" fill="white" />
+  <rect x="180" y="160" width="60" height="80" stroke="black" fill="white" />
+</svg>
+
+1. 每个小块的面积是多少？
+
+2. 将宽为 $\frac{2}{3}$ 米、高为 $\frac{3}{4}$ 米的矩形涂上阴影，它的面积是多少？不用化简。
+
+3. 面积 = 长 $\times$ 宽, 所以 $\frac{2}{3} \times \frac{3}{4} =$
+
+4. 所以 $\frac{a}{b}\times\frac{c}{d}=$
+
+<br/>
+
+### _Exercise #2._ ## 计算分数的乘法时先进行约分会简化计算，计算 $\frac{4}{9} \times \frac{6}{8}=$
+
+1. 先直接进行计算
+
+<br/>
+<br/>
+<br/>
+
+2. 先约分再进行计算
+
+<br/>
+<br/>
+<br/>
+
+### _Exercise #3._ ## 用约分来计算以下算式
+
+$\frac{5}{2} \times \frac{1}{4} = \qquad\qquad\qquad\qquad \frac{7}{6}\times \frac{3}{10}=$
+<br/>
+
+$\frac{5}{21} \times \frac{14}{15} = \qquad\qquad\qquad\qquad \frac{9}{8}\times \frac{32}{27}=$
+<br/>
+
+### _Exercise #4._ ## 计算 ${3}\frac{1}{3} \times {6}\frac{2}{5}$
+
+${3}\frac{1}{3}=  \qquad\qquad\qquad\qquad {6}\frac{2}{5}=$
+
+   <br/>
+<br/>
+<br/>
+
+## 分数的除法<br/>Dividing Fractions
+
+> 分数的除法看上去会像是个奇怪的想法，但我们可以通过用乘法来理解它
+
+### _Exercise #1._ ## 将以下除法算式逆运算：
+
+(1) $18\div2 = 9$ 因为： $9 \times 2 = 18$
+
+(2) $42\div6 = 7$ 因为：
+
+(3) $5\div\frac{1}{2}=10$ 因为：
+
+(4) $\frac{1}{5}\div3=\frac{1}{15}$ 因为：
