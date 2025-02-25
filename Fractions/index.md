@@ -479,7 +479,7 @@ $\frac{4}{7} \times 21 \qquad\qquad\qquad40 \times \frac{5}{8}  \qquad\qquad\qqu
 
 <br/>
 
-### _Exercise #2._ ## 计算分数的乘法时先进行约分会简化计算，计算 $\frac{4}{9} \times \frac{6}{8}=$
+### _Exercise #2._ 计算分数的乘法时先进行约分会简化计算，计算 $\frac{4}{9} \times \frac{6}{8}=$
 
 1. 先直接进行计算
 
@@ -493,7 +493,7 @@ $\frac{4}{7} \times 21 \qquad\qquad\qquad40 \times \frac{5}{8}  \qquad\qquad\qqu
 <br/>
 <br/>
 
-### _Exercise #3._ ## 用约分来计算以下算式
+### _Exercise #3._ 用约分来计算以下算式
 
 $\frac{5}{2} \times \frac{1}{4} = \qquad\qquad\qquad\qquad \frac{7}{6}\times \frac{3}{10}=$
 <br/>
@@ -501,7 +501,7 @@ $\frac{5}{2} \times \frac{1}{4} = \qquad\qquad\qquad\qquad \frac{7}{6}\times \fr
 $\frac{5}{21} \times \frac{14}{15} = \qquad\qquad\qquad\qquad \frac{9}{8}\times \frac{32}{27}=$
 <br/>
 
-### _Exercise #4._ ## 计算 ${3}\frac{1}{3} \times {6}\frac{2}{5}$
+### _Exercise #4._ 计算 ${3}\frac{1}{3} \times {6}\frac{2}{5}$
 
 ${3}\frac{1}{3}=  \qquad\qquad\qquad\qquad {6}\frac{2}{5}=$
 
@@ -513,7 +513,7 @@ ${3}\frac{1}{3}=  \qquad\qquad\qquad\qquad {6}\frac{2}{5}=$
 
 > 分数的除法看上去会像是个奇怪的想法，但我们可以通过用乘法来理解它
 
-### _Exercise #1._ ## 将以下除法算式逆运算：
+### _Exercise #1._ 将以下除法算式逆运算：
 
 (1) $18\div2 = 9$ 因为： $9 \times 2 = 18$
 
@@ -522,3 +522,20 @@ ${3}\frac{1}{3}=  \qquad\qquad\qquad\qquad {6}\frac{2}{5}=$
 (3) $5\div\frac{1}{2}=10$ 因为：
 
 (4) $\frac{1}{5}\div3=\frac{1}{15}$ 因为：
+
+### _Exercise #2._ 填空
+
+(1)
+$\frac{6}{35}\div\frac{3}{5}=\underline{\hspace{3em}}\qquad\qquad\qquad\frac{3}{5}\times\underline{\hspace{3em}}=\frac{6}{35}$
+
+(2)
+$\frac{45}{16}\div\frac{5}{8}=\underline{\hspace{3em}}\qquad\qquad\qquad\frac{5}{8}\times\underline{\hspace{3em}}=\frac{45}{16}$
+
+### _Exercise #2._ 计算 $\frac{28}{15}\div\frac{2}{5}$
+
+### 计算以下算式：
+
+(1)
+$\frac{8}{3}\div\frac{4}{3}=\underline{\hspace{3em}}\qquad\qquad\qquad\frac{4}{3}\times\underline{\hspace{3em}}=\frac{8}{3}$
+
+(2)$\frac{10}{7}\div\frac{2}{7}=\underline{\hspace{3em}}\qquad\qquad\qquad\frac{2}{7}\times\underline{\hspace{3em}}=\frac{10}{7}$
